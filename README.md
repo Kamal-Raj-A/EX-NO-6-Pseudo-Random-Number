@@ -38,7 +38,7 @@ int main()
 ```
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/ddbeff3b-5ed1-41c1-9148-0d4280ad7235)
+![image](https://github.com/user-attachments/assets/e7243689-01fd-468e-b4b7-86ac897089b3)
 
 
 # RESULT:
